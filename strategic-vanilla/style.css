@@ -1,0 +1,25 @@
+table {
+  margin: 0 auto;
+}
+
+table {
+  color: #333;
+  background: white;
+  font-size: 12pt;
+}
+
+table caption {
+  padding:.5em;
+}
+
+table th {
+  border-collapse: collapse;
+  padding: 0;
+  border: 2px solid black;
+}
+
+table td {
+  border-collapse: separate;
+  padding: .5em;
+  border: 1px solid black;
+}
